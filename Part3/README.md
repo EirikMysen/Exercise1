@@ -26,7 +26,7 @@ When answering the questions, remember to use all the resources at your disposal
  > *Your answer here*
  
  ### How does pythons Global Interpreter Lock (GIL) influence the way a python Thread behaves?
- > *Your answer here*
+ > *Your answer here*kk
  
  ### With this in mind: What is the workaround for the GIL (Hint: it's another module)?
  > *Your answer here*
